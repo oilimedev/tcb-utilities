@@ -1,0 +1,58 @@
+/* Gaps  */
+
+.gap {
+  gap: 0.25rem;
+}
+
+.gap-2 {
+  gap: 0.5rem;
+}
+
+.gap-3 {
+  gap: 0.75rem;
+}
+
+.gap-4 {
+  gap: 1rem;
+}
+
+/* Ordering */
+
+.flex {
+  display: flex;
+}
+
+.fixed {
+  position: fixed;
+}
+
+.items-center {
+  align-items: center;
+}
+
+.justify-between {
+  justify-content: space-between;
+}
+
+.container {
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+/* Styling */
+
+nav a:hover:not(#logo) {
+  background-color: var(--foreground);
+  color: var(--background);
+}
+
+a:hover {
+  color: lightblue;
+}
+
+.footer {
+  border-top: 1px solid #e5e7eb;
+  padding: 2rem 0;
+  width: 100%;
+  bottom: 0;
+}
