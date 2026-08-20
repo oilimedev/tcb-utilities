@@ -1,0 +1,21 @@
+---
+import Layout from "../layouts/Layout.astro";
+import UtilityCard from "../components/UtilityCard.astro";
+import { hubItems } from "../data/content";
+const items = hubItems.filter((item) => item.category === "Tools");
+---
+
+<Layout title="Tools — TCB Utilities"
+  ><section class="mx-auto max-w-5xl px-5 py-16 lg:px-8">
+    <p class="text-xs font-bold uppercase tracking-[.2em] text-blue">
+      Toolbox
+    </p><h1 class="mt-3 text-4xl font-black tracking-tight">
+      Making easier to organize your game experience.
+    </h1><p class="subtle mt-4 max-w-2xl leading-7">
+        Browse our collection of tools to help you plan, track, and share your
+        progress.
+    </p><div class="mt-10 grid gap-4 sm:grid-cols-2">
+      {items.map((item) => <UtilityCard item={item} />)}
+    </div>
+  </section></Layout
+>

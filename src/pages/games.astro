@@ -1,0 +1,36 @@
+---
+import Layout from "../layouts/Layout.astro";
+import { games } from "../data/content";
+---
+
+<Layout
+  title="Games — TCB Utilities"
+  description="Browse supported games and their active utility sets."
+  ><section class="mx-auto max-w-5xl px-5 py-16 lg:px-8">
+    <p class="text-xs font-bold uppercase tracking-[.2em] text-blue">
+      Game library
+    </p><h1 class="mt-3 text-4xl font-black tracking-tight">
+      Pick up where you left off.
+    </h1><p class="subtle mt-4 max-w-2xl leading-7">
+      Choose a game to see its trackers, calculators, and newest guides.
+    </p><div class="mt-10 grid gap-4 sm:grid-cols-2">
+      {
+        games.map((game) => (
+          <article class="surface card-lift rounded-2xl p-6">
+            <>
+              <span
+                class="grid h-12 w-12 place-items-center rounded-xl font-black"
+                style={`background:${game.color}20;color:${game.color}`}
+              >
+                {game.code}
+              </span>
+              <h2 class="mt-8 text-xl font-bold">{game.name}</h2>
+              <p class="subtle mt-2 text-sm">{game.detail}</p>
+              <p class="mt-5 text-sm font-semibold">View game hub →</p>
+            </>
+          </article>
+        ))
+      }
+    </div>
+  </section></Layout
+>
