@@ -1,0 +1,15 @@
+export enum EncounterType {
+  Single = 0,
+  Horde3x = 1,
+  Horde5x = 2,
+  Fishing = 3,
+  Egg = 4,
+  Safari = 5,
+  Fossil = 6,
+  Swarm = 7,
+  Gift = 8,
+  RockSmash = 9,
+  Headbutt = 10,
+  Event = 11,
+  HoneyTree = 12,
+}
