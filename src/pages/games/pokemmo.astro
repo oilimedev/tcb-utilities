@@ -1,7 +1,22 @@
 ---
 import Layout from "../../layouts/Layout.astro";
+import UtilityCard from "../../components/UtilityCard.astro";
+import { games, hubItems } from "../../data/content";
+const game = games.find((game) => game.link === "pokemmo");
+const tools = hubItems.filter((item) => item.game === "pokemmo");
 ---
 
-<Layout>
-  <section></section>
+<Layout title={`${game?.name ?? "Game"} — TCB Utilities`}>
+  <section class="mx-auto max-w-5xl px-5 py-16 lg:px-8">
+    <p class="text-xs font-bold uppercase tracking-[.2em] text-blue">
+      Game hub
+    </p>
+    <h1 class="mt-3 text-4xl font-black tracking-tight">
+      {game?.name}
+    </h1>
+    <p class="subtle mt-4 max-w-2xl leading-7">{game?.detail}</p>
+    <div class="mt-10 grid gap-4 sm:grid-cols-2">
+      {tools.map((item) => <UtilityCard item={item} />)}
+    </div>
+  </section>
 </Layout>
