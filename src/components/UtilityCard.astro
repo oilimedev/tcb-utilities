@@ -3,7 +3,7 @@ import type { HubItem } from '../data/content';
 interface Props { item: HubItem; }
 const { item } = Astro.props;
 ---
-<a href={item.category === 'Guide' ? '/guides' : item.category === 'Tracker' ? '/trackers' : item.category === 'Community' ? '/community' : '/tools'} class="surface card-lift focus-ring group flex min-h-52 flex-col rounded-2xl p-5">
+<a href={'/tools'} class="surface card-lift focus-ring group flex min-h-52 flex-col rounded-2xl p-5">
   <div class="flex items-start justify-between">
     <span class="grid h-11 w-11 place-items-center rounded-xl text-lg font-semibold" style={`background:${item.accent}18;color:${item.accent}`}>{item.icon}</span>
     {item.status && <span class="rounded-full border border-line px-2.5 py-1 text-[10px] font-semibold uppercase tracking-widest subtle">{item.status}</span>}

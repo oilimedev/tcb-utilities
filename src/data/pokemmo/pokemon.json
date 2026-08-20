@@ -1,0 +1,3602 @@
+[
+    {
+        "id": 1,
+        "name": "Bulbasaur",
+        "exp_type_id": 3
+    },
+    {
+        "id": 2,
+        "name": "Ivysaur",
+        "exp_type_id": 3
+    },
+    {
+        "id": 3,
+        "name": "Venusaur",
+        "exp_type_id": 3
+    },
+    {
+        "id": 4,
+        "name": "Charmander",
+        "exp_type_id": 3
+    },
+    {
+        "id": 5,
+        "name": "Charmeleon",
+        "exp_type_id": 3
+    },
+    {
+        "id": 6,
+        "name": "Charizard",
+        "exp_type_id": 3
+    },
+    {
+        "id": 7,
+        "name": "Squirtle",
+        "exp_type_id": 3
+    },
+    {
+        "id": 8,
+        "name": "Wartortle",
+        "exp_type_id": 3
+    },
+    {
+        "id": 9,
+        "name": "Blastoise",
+        "exp_type_id": 3
+    },
+    {
+        "id": 10,
+        "name": "Caterpie",
+        "exp_type_id": 0
+    },
+    {
+        "id": 11,
+        "name": "Metapod",
+        "exp_type_id": 0
+    },
+    {
+        "id": 12,
+        "name": "Butterfree",
+        "exp_type_id": 0
+    },
+    {
+        "id": 13,
+        "name": "Weedle",
+        "exp_type_id": 0
+    },
+    {
+        "id": 14,
+        "name": "Kakuna",
+        "exp_type_id": 0
+    },
+    {
+        "id": 15,
+        "name": "Beedrill",
+        "exp_type_id": 0
+    },
+    {
+        "id": 16,
+        "name": "Pidgey",
+        "exp_type_id": 3
+    },
+    {
+        "id": 17,
+        "name": "Pidgeotto",
+        "exp_type_id": 3
+    },
+    {
+        "id": 18,
+        "name": "Pidgeot",
+        "exp_type_id": 3
+    },
+    {
+        "id": 19,
+        "name": "Rattata",
+        "exp_type_id": 0
+    },
+    {
+        "id": 20,
+        "name": "Raticate",
+        "exp_type_id": 0
+    },
+    {
+        "id": 21,
+        "name": "Spearow",
+        "exp_type_id": 0
+    },
+    {
+        "id": 22,
+        "name": "Fearow",
+        "exp_type_id": 0
+    },
+    {
+        "id": 23,
+        "name": "Ekans",
+        "exp_type_id": 0
+    },
+    {
+        "id": 24,
+        "name": "Arbok",
+        "exp_type_id": 0
+    },
+    {
+        "id": 25,
+        "name": "Pikachu",
+        "exp_type_id": 0
+    },
+    {
+        "id": 26,
+        "name": "Raichu",
+        "exp_type_id": 0
+    },
+    {
+        "id": 27,
+        "name": "Sandshrew",
+        "exp_type_id": 0
+    },
+    {
+        "id": 28,
+        "name": "Sandslash",
+        "exp_type_id": 0
+    },
+    {
+        "id": 29,
+        "name": "Nidoran\u00e2\u2122\u20ac",
+        "exp_type_id": 3
+    },
+    {
+        "id": 30,
+        "name": "Nidorina",
+        "exp_type_id": 3
+    },
+    {
+        "id": 31,
+        "name": "Nidoqueen",
+        "exp_type_id": 3
+    },
+    {
+        "id": 32,
+        "name": "Nidoran\u00e2\u2122\u201a",
+        "exp_type_id": 3
+    },
+    {
+        "id": 33,
+        "name": "Nidorino",
+        "exp_type_id": 3
+    },
+    {
+        "id": 34,
+        "name": "Nidoking",
+        "exp_type_id": 3
+    },
+    {
+        "id": 35,
+        "name": "Clefairy",
+        "exp_type_id": 4
+    },
+    {
+        "id": 36,
+        "name": "Clefable",
+        "exp_type_id": 4
+    },
+    {
+        "id": 37,
+        "name": "Vulpix",
+        "exp_type_id": 0
+    },
+    {
+        "id": 38,
+        "name": "Ninetales",
+        "exp_type_id": 0
+    },
+    {
+        "id": 39,
+        "name": "Jigglypuff",
+        "exp_type_id": 4
+    },
+    {
+        "id": 40,
+        "name": "Wigglytuff",
+        "exp_type_id": 4
+    },
+    {
+        "id": 41,
+        "name": "Zubat",
+        "exp_type_id": 0
+    },
+    {
+        "id": 42,
+        "name": "Golbat",
+        "exp_type_id": 0
+    },
+    {
+        "id": 43,
+        "name": "Oddish",
+        "exp_type_id": 3
+    },
+    {
+        "id": 44,
+        "name": "Gloom",
+        "exp_type_id": 3
+    },
+    {
+        "id": 45,
+        "name": "Vileplume",
+        "exp_type_id": 3
+    },
+    {
+        "id": 46,
+        "name": "Paras",
+        "exp_type_id": 0
+    },
+    {
+        "id": 47,
+        "name": "Parasect",
+        "exp_type_id": 0
+    },
+    {
+        "id": 48,
+        "name": "Venonat",
+        "exp_type_id": 0
+    },
+    {
+        "id": 49,
+        "name": "Venomoth",
+        "exp_type_id": 0
+    },
+    {
+        "id": 50,
+        "name": "Diglett",
+        "exp_type_id": 0
+    },
+    {
+        "id": 51,
+        "name": "Dugtrio",
+        "exp_type_id": 0
+    },
+    {
+        "id": 52,
+        "name": "Meowth",
+        "exp_type_id": 0
+    },
+    {
+        "id": 53,
+        "name": "Persian",
+        "exp_type_id": 0
+    },
+    {
+        "id": 54,
+        "name": "Psyduck",
+        "exp_type_id": 0
+    },
+    {
+        "id": 55,
+        "name": "Golduck",
+        "exp_type_id": 0
+    },
+    {
+        "id": 56,
+        "name": "Mankey",
+        "exp_type_id": 0
+    },
+    {
+        "id": 57,
+        "name": "Primeape",
+        "exp_type_id": 0
+    },
+    {
+        "id": 58,
+        "name": "Growlithe",
+        "exp_type_id": 5
+    },
+    {
+        "id": 59,
+        "name": "Arcanine",
+        "exp_type_id": 5
+    },
+    {
+        "id": 60,
+        "name": "Poliwag",
+        "exp_type_id": 3
+    },
+    {
+        "id": 61,
+        "name": "Poliwhirl",
+        "exp_type_id": 3
+    },
+    {
+        "id": 62,
+        "name": "Poliwrath",
+        "exp_type_id": 3
+    },
+    {
+        "id": 63,
+        "name": "Abra",
+        "exp_type_id": 3
+    },
+    {
+        "id": 64,
+        "name": "Kadabra",
+        "exp_type_id": 3
+    },
+    {
+        "id": 65,
+        "name": "Alakazam",
+        "exp_type_id": 3
+    },
+    {
+        "id": 66,
+        "name": "Machop",
+        "exp_type_id": 3
+    },
+    {
+        "id": 67,
+        "name": "Machoke",
+        "exp_type_id": 3
+    },
+    {
+        "id": 68,
+        "name": "Machamp",
+        "exp_type_id": 3
+    },
+    {
+        "id": 69,
+        "name": "Bellsprout",
+        "exp_type_id": 3
+    },
+    {
+        "id": 70,
+        "name": "Weepinbell",
+        "exp_type_id": 3
+    },
+    {
+        "id": 71,
+        "name": "Victreebel",
+        "exp_type_id": 3
+    },
+    {
+        "id": 72,
+        "name": "Tentacool",
+        "exp_type_id": 5
+    },
+    {
+        "id": 73,
+        "name": "Tentacruel",
+        "exp_type_id": 5
+    },
+    {
+        "id": 74,
+        "name": "Geodude",
+        "exp_type_id": 3
+    },
+    {
+        "id": 75,
+        "name": "Graveler",
+        "exp_type_id": 3
+    },
+    {
+        "id": 76,
+        "name": "Golem",
+        "exp_type_id": 3
+    },
+    {
+        "id": 77,
+        "name": "Ponyta",
+        "exp_type_id": 0
+    },
+    {
+        "id": 78,
+        "name": "Rapidash",
+        "exp_type_id": 0
+    },
+    {
+        "id": 79,
+        "name": "Slowpoke",
+        "exp_type_id": 0
+    },
+    {
+        "id": 80,
+        "name": "Slowbro",
+        "exp_type_id": 0
+    },
+    {
+        "id": 81,
+        "name": "Magnemite",
+        "exp_type_id": 0
+    },
+    {
+        "id": 82,
+        "name": "Magneton",
+        "exp_type_id": 0
+    },
+    {
+        "id": 83,
+        "name": "Farfetch'd",
+        "exp_type_id": 0
+    },
+    {
+        "id": 84,
+        "name": "Doduo",
+        "exp_type_id": 0
+    },
+    {
+        "id": 85,
+        "name": "Dodrio",
+        "exp_type_id": 0
+    },
+    {
+        "id": 86,
+        "name": "Seel",
+        "exp_type_id": 0
+    },
+    {
+        "id": 87,
+        "name": "Dewgong",
+        "exp_type_id": 0
+    },
+    {
+        "id": 88,
+        "name": "Grimer",
+        "exp_type_id": 0
+    },
+    {
+        "id": 89,
+        "name": "Muk",
+        "exp_type_id": 0
+    },
+    {
+        "id": 90,
+        "name": "Shellder",
+        "exp_type_id": 5
+    },
+    {
+        "id": 91,
+        "name": "Cloyster",
+        "exp_type_id": 5
+    },
+    {
+        "id": 92,
+        "name": "Gastly",
+        "exp_type_id": 3
+    },
+    {
+        "id": 93,
+        "name": "Haunter",
+        "exp_type_id": 3
+    },
+    {
+        "id": 94,
+        "name": "Gengar",
+        "exp_type_id": 3
+    },
+    {
+        "id": 95,
+        "name": "Onix",
+        "exp_type_id": 0
+    },
+    {
+        "id": 96,
+        "name": "Drowzee",
+        "exp_type_id": 0
+    },
+    {
+        "id": 97,
+        "name": "Hypno",
+        "exp_type_id": 0
+    },
+    {
+        "id": 98,
+        "name": "Krabby",
+        "exp_type_id": 0
+    },
+    {
+        "id": 99,
+        "name": "Kingler",
+        "exp_type_id": 0
+    },
+    {
+        "id": 100,
+        "name": "Voltorb",
+        "exp_type_id": 0
+    },
+    {
+        "id": 101,
+        "name": "Electrode",
+        "exp_type_id": 0
+    },
+    {
+        "id": 102,
+        "name": "Exeggcute",
+        "exp_type_id": 5
+    },
+    {
+        "id": 103,
+        "name": "Exeggutor",
+        "exp_type_id": 5
+    },
+    {
+        "id": 104,
+        "name": "Cubone",
+        "exp_type_id": 0
+    },
+    {
+        "id": 105,
+        "name": "Marowak",
+        "exp_type_id": 0
+    },
+    {
+        "id": 106,
+        "name": "Hitmonlee",
+        "exp_type_id": 0
+    },
+    {
+        "id": 107,
+        "name": "Hitmonchan",
+        "exp_type_id": 0
+    },
+    {
+        "id": 108,
+        "name": "Lickitung",
+        "exp_type_id": 0
+    },
+    {
+        "id": 109,
+        "name": "Koffing",
+        "exp_type_id": 0
+    },
+    {
+        "id": 110,
+        "name": "Weezing",
+        "exp_type_id": 0
+    },
+    {
+        "id": 111,
+        "name": "Rhyhorn",
+        "exp_type_id": 5
+    },
+    {
+        "id": 112,
+        "name": "Rhydon",
+        "exp_type_id": 5
+    },
+    {
+        "id": 113,
+        "name": "Chansey",
+        "exp_type_id": 4
+    },
+    {
+        "id": 114,
+        "name": "Tangela",
+        "exp_type_id": 0
+    },
+    {
+        "id": 115,
+        "name": "Kangaskhan",
+        "exp_type_id": 0
+    },
+    {
+        "id": 116,
+        "name": "Horsea",
+        "exp_type_id": 0
+    },
+    {
+        "id": 117,
+        "name": "Seadra",
+        "exp_type_id": 0
+    },
+    {
+        "id": 118,
+        "name": "Goldeen",
+        "exp_type_id": 0
+    },
+    {
+        "id": 119,
+        "name": "Seaking",
+        "exp_type_id": 0
+    },
+    {
+        "id": 120,
+        "name": "Staryu",
+        "exp_type_id": 5
+    },
+    {
+        "id": 121,
+        "name": "Starmie",
+        "exp_type_id": 5
+    },
+    {
+        "id": 122,
+        "name": "Mr. Mime",
+        "exp_type_id": 0
+    },
+    {
+        "id": 123,
+        "name": "Scyther",
+        "exp_type_id": 0
+    },
+    {
+        "id": 124,
+        "name": "Jynx",
+        "exp_type_id": 0
+    },
+    {
+        "id": 125,
+        "name": "Electabuzz",
+        "exp_type_id": 0
+    },
+    {
+        "id": 126,
+        "name": "Magmar",
+        "exp_type_id": 0
+    },
+    {
+        "id": 127,
+        "name": "Pinsir",
+        "exp_type_id": 5
+    },
+    {
+        "id": 128,
+        "name": "Tauros",
+        "exp_type_id": 5
+    },
+    {
+        "id": 129,
+        "name": "Magikarp",
+        "exp_type_id": 5
+    },
+    {
+        "id": 130,
+        "name": "Gyarados",
+        "exp_type_id": 5
+    },
+    {
+        "id": 131,
+        "name": "Lapras",
+        "exp_type_id": 5
+    },
+    {
+        "id": 132,
+        "name": "Ditto",
+        "exp_type_id": 0
+    },
+    {
+        "id": 133,
+        "name": "Eevee",
+        "exp_type_id": 0
+    },
+    {
+        "id": 134,
+        "name": "Vaporeon",
+        "exp_type_id": 0
+    },
+    {
+        "id": 135,
+        "name": "Jolteon",
+        "exp_type_id": 0
+    },
+    {
+        "id": 136,
+        "name": "Flareon",
+        "exp_type_id": 0
+    },
+    {
+        "id": 137,
+        "name": "Porygon",
+        "exp_type_id": 0
+    },
+    {
+        "id": 138,
+        "name": "Omanyte",
+        "exp_type_id": 0
+    },
+    {
+        "id": 139,
+        "name": "Omastar",
+        "exp_type_id": 0
+    },
+    {
+        "id": 140,
+        "name": "Kabuto",
+        "exp_type_id": 0
+    },
+    {
+        "id": 141,
+        "name": "Kabutops",
+        "exp_type_id": 0
+    },
+    {
+        "id": 142,
+        "name": "Aerodactyl",
+        "exp_type_id": 5
+    },
+    {
+        "id": 143,
+        "name": "Snorlax",
+        "exp_type_id": 5
+    },
+    {
+        "id": 144,
+        "name": "Articuno",
+        "exp_type_id": 5
+    },
+    {
+        "id": 145,
+        "name": "Zapdos",
+        "exp_type_id": 5
+    },
+    {
+        "id": 146,
+        "name": "Moltres",
+        "exp_type_id": 5
+    },
+    {
+        "id": 147,
+        "name": "Dratini",
+        "exp_type_id": 5
+    },
+    {
+        "id": 148,
+        "name": "Dragonair",
+        "exp_type_id": 5
+    },
+    {
+        "id": 149,
+        "name": "Dragonite",
+        "exp_type_id": 5
+    },
+    {
+        "id": 150,
+        "name": "Mewtwo",
+        "exp_type_id": 5
+    },
+    {
+        "id": 151,
+        "name": "Mew",
+        "exp_type_id": 3
+    },
+    {
+        "id": 152,
+        "name": "Chikorita",
+        "exp_type_id": 3
+    },
+    {
+        "id": 153,
+        "name": "Bayleef",
+        "exp_type_id": 3
+    },
+    {
+        "id": 154,
+        "name": "Meganium",
+        "exp_type_id": 3
+    },
+    {
+        "id": 155,
+        "name": "Cyndaquil",
+        "exp_type_id": 3
+    },
+    {
+        "id": 156,
+        "name": "Quilava",
+        "exp_type_id": 3
+    },
+    {
+        "id": 157,
+        "name": "Typhlosion",
+        "exp_type_id": 3
+    },
+    {
+        "id": 158,
+        "name": "Totodile",
+        "exp_type_id": 3
+    },
+    {
+        "id": 159,
+        "name": "Croconaw",
+        "exp_type_id": 3
+    },
+    {
+        "id": 160,
+        "name": "Feraligatr",
+        "exp_type_id": 3
+    },
+    {
+        "id": 161,
+        "name": "Sentret",
+        "exp_type_id": 0
+    },
+    {
+        "id": 162,
+        "name": "Furret",
+        "exp_type_id": 0
+    },
+    {
+        "id": 163,
+        "name": "Hoothoot",
+        "exp_type_id": 0
+    },
+    {
+        "id": 164,
+        "name": "Noctowl",
+        "exp_type_id": 0
+    },
+    {
+        "id": 165,
+        "name": "Ledyba",
+        "exp_type_id": 4
+    },
+    {
+        "id": 166,
+        "name": "Ledian",
+        "exp_type_id": 4
+    },
+    {
+        "id": 167,
+        "name": "Spinarak",
+        "exp_type_id": 4
+    },
+    {
+        "id": 168,
+        "name": "Ariados",
+        "exp_type_id": 4
+    },
+    {
+        "id": 169,
+        "name": "Crobat",
+        "exp_type_id": 0
+    },
+    {
+        "id": 170,
+        "name": "Chinchou",
+        "exp_type_id": 5
+    },
+    {
+        "id": 171,
+        "name": "Lanturn",
+        "exp_type_id": 5
+    },
+    {
+        "id": 172,
+        "name": "Pichu",
+        "exp_type_id": 0
+    },
+    {
+        "id": 173,
+        "name": "Cleffa",
+        "exp_type_id": 4
+    },
+    {
+        "id": 174,
+        "name": "Igglybuff",
+        "exp_type_id": 4
+    },
+    {
+        "id": 175,
+        "name": "Togepi",
+        "exp_type_id": 4
+    },
+    {
+        "id": 176,
+        "name": "Togetic",
+        "exp_type_id": 4
+    },
+    {
+        "id": 177,
+        "name": "Natu",
+        "exp_type_id": 0
+    },
+    {
+        "id": 178,
+        "name": "Xatu",
+        "exp_type_id": 0
+    },
+    {
+        "id": 179,
+        "name": "Mareep",
+        "exp_type_id": 3
+    },
+    {
+        "id": 180,
+        "name": "Flaaffy",
+        "exp_type_id": 3
+    },
+    {
+        "id": 181,
+        "name": "Ampharos",
+        "exp_type_id": 3
+    },
+    {
+        "id": 182,
+        "name": "Bellossom",
+        "exp_type_id": 3
+    },
+    {
+        "id": 183,
+        "name": "Marill",
+        "exp_type_id": 4
+    },
+    {
+        "id": 184,
+        "name": "Azumarill",
+        "exp_type_id": 4
+    },
+    {
+        "id": 185,
+        "name": "Sudowoodo",
+        "exp_type_id": 0
+    },
+    {
+        "id": 186,
+        "name": "Politoed",
+        "exp_type_id": 3
+    },
+    {
+        "id": 187,
+        "name": "Hoppip",
+        "exp_type_id": 3
+    },
+    {
+        "id": 188,
+        "name": "Skiploom",
+        "exp_type_id": 3
+    },
+    {
+        "id": 189,
+        "name": "Jumpluff",
+        "exp_type_id": 3
+    },
+    {
+        "id": 190,
+        "name": "Aipom",
+        "exp_type_id": 4
+    },
+    {
+        "id": 191,
+        "name": "Sunkern",
+        "exp_type_id": 3
+    },
+    {
+        "id": 192,
+        "name": "Sunflora",
+        "exp_type_id": 3
+    },
+    {
+        "id": 193,
+        "name": "Yanma",
+        "exp_type_id": 0
+    },
+    {
+        "id": 194,
+        "name": "Wooper",
+        "exp_type_id": 0
+    },
+    {
+        "id": 195,
+        "name": "Quagsire",
+        "exp_type_id": 0
+    },
+    {
+        "id": 196,
+        "name": "Espeon",
+        "exp_type_id": 0
+    },
+    {
+        "id": 197,
+        "name": "Umbreon",
+        "exp_type_id": 0
+    },
+    {
+        "id": 198,
+        "name": "Murkrow",
+        "exp_type_id": 3
+    },
+    {
+        "id": 199,
+        "name": "Slowking",
+        "exp_type_id": 0
+    },
+    {
+        "id": 200,
+        "name": "Misdreavus",
+        "exp_type_id": 4
+    },
+    {
+        "id": 201,
+        "name": "Unown",
+        "exp_type_id": 0
+    },
+    {
+        "id": 202,
+        "name": "Wobbuffet",
+        "exp_type_id": 0
+    },
+    {
+        "id": 203,
+        "name": "Girafarig",
+        "exp_type_id": 0
+    },
+    {
+        "id": 204,
+        "name": "Pineco",
+        "exp_type_id": 0
+    },
+    {
+        "id": 205,
+        "name": "Forretress",
+        "exp_type_id": 0
+    },
+    {
+        "id": 206,
+        "name": "Dunsparce",
+        "exp_type_id": 0
+    },
+    {
+        "id": 207,
+        "name": "Gligar",
+        "exp_type_id": 3
+    },
+    {
+        "id": 208,
+        "name": "Steelix",
+        "exp_type_id": 0
+    },
+    {
+        "id": 209,
+        "name": "Snubbull",
+        "exp_type_id": 4
+    },
+    {
+        "id": 210,
+        "name": "Granbull",
+        "exp_type_id": 4
+    },
+    {
+        "id": 211,
+        "name": "Qwilfish",
+        "exp_type_id": 0
+    },
+    {
+        "id": 212,
+        "name": "Scizor",
+        "exp_type_id": 0
+    },
+    {
+        "id": 213,
+        "name": "Shuckle",
+        "exp_type_id": 3
+    },
+    {
+        "id": 214,
+        "name": "Heracross",
+        "exp_type_id": 5
+    },
+    {
+        "id": 215,
+        "name": "Sneasel",
+        "exp_type_id": 3
+    },
+    {
+        "id": 216,
+        "name": "Teddiursa",
+        "exp_type_id": 0
+    },
+    {
+        "id": 217,
+        "name": "Ursaring",
+        "exp_type_id": 0
+    },
+    {
+        "id": 218,
+        "name": "Slugma",
+        "exp_type_id": 0
+    },
+    {
+        "id": 219,
+        "name": "Magcargo",
+        "exp_type_id": 0
+    },
+    {
+        "id": 220,
+        "name": "Swinub",
+        "exp_type_id": 5
+    },
+    {
+        "id": 221,
+        "name": "Piloswine",
+        "exp_type_id": 5
+    },
+    {
+        "id": 222,
+        "name": "Corsola",
+        "exp_type_id": 4
+    },
+    {
+        "id": 223,
+        "name": "Remoraid",
+        "exp_type_id": 0
+    },
+    {
+        "id": 224,
+        "name": "Octillery",
+        "exp_type_id": 0
+    },
+    {
+        "id": 225,
+        "name": "Delibird",
+        "exp_type_id": 4
+    },
+    {
+        "id": 226,
+        "name": "Mantine",
+        "exp_type_id": 5
+    },
+    {
+        "id": 227,
+        "name": "Skarmory",
+        "exp_type_id": 5
+    },
+    {
+        "id": 228,
+        "name": "Houndour",
+        "exp_type_id": 5
+    },
+    {
+        "id": 229,
+        "name": "Houndoom",
+        "exp_type_id": 5
+    },
+    {
+        "id": 230,
+        "name": "Kingdra",
+        "exp_type_id": 0
+    },
+    {
+        "id": 231,
+        "name": "Phanpy",
+        "exp_type_id": 0
+    },
+    {
+        "id": 232,
+        "name": "Donphan",
+        "exp_type_id": 0
+    },
+    {
+        "id": 233,
+        "name": "Porygon2",
+        "exp_type_id": 0
+    },
+    {
+        "id": 234,
+        "name": "Stantler",
+        "exp_type_id": 5
+    },
+    {
+        "id": 235,
+        "name": "Smeargle",
+        "exp_type_id": 4
+    },
+    {
+        "id": 236,
+        "name": "Tyrogue",
+        "exp_type_id": 0
+    },
+    {
+        "id": 237,
+        "name": "Hitmontop",
+        "exp_type_id": 0
+    },
+    {
+        "id": 238,
+        "name": "Smoochum",
+        "exp_type_id": 0
+    },
+    {
+        "id": 239,
+        "name": "Elekid",
+        "exp_type_id": 0
+    },
+    {
+        "id": 240,
+        "name": "Magby",
+        "exp_type_id": 0
+    },
+    {
+        "id": 241,
+        "name": "Miltank",
+        "exp_type_id": 5
+    },
+    {
+        "id": 242,
+        "name": "Blissey",
+        "exp_type_id": 4
+    },
+    {
+        "id": 243,
+        "name": "Raikou",
+        "exp_type_id": 5
+    },
+    {
+        "id": 244,
+        "name": "Entei",
+        "exp_type_id": 5
+    },
+    {
+        "id": 245,
+        "name": "Suicune",
+        "exp_type_id": 5
+    },
+    {
+        "id": 246,
+        "name": "Larvitar",
+        "exp_type_id": 5
+    },
+    {
+        "id": 247,
+        "name": "Pupitar",
+        "exp_type_id": 5
+    },
+    {
+        "id": 248,
+        "name": "Tyranitar",
+        "exp_type_id": 5
+    },
+    {
+        "id": 249,
+        "name": "Lugia",
+        "exp_type_id": 5
+    },
+    {
+        "id": 250,
+        "name": "Ho-Oh",
+        "exp_type_id": 5
+    },
+    {
+        "id": 251,
+        "name": "Celebi",
+        "exp_type_id": 3
+    },
+    {
+        "id": 252,
+        "name": "Treecko",
+        "exp_type_id": 3
+    },
+    {
+        "id": 253,
+        "name": "Grovyle",
+        "exp_type_id": 3
+    },
+    {
+        "id": 254,
+        "name": "Sceptile",
+        "exp_type_id": 3
+    },
+    {
+        "id": 255,
+        "name": "Torchic",
+        "exp_type_id": 3
+    },
+    {
+        "id": 256,
+        "name": "Combusken",
+        "exp_type_id": 3
+    },
+    {
+        "id": 257,
+        "name": "Blaziken",
+        "exp_type_id": 3
+    },
+    {
+        "id": 258,
+        "name": "Mudkip",
+        "exp_type_id": 3
+    },
+    {
+        "id": 259,
+        "name": "Marshtomp",
+        "exp_type_id": 3
+    },
+    {
+        "id": 260,
+        "name": "Swampert",
+        "exp_type_id": 3
+    },
+    {
+        "id": 261,
+        "name": "Poochyena",
+        "exp_type_id": 0
+    },
+    {
+        "id": 262,
+        "name": "Mightyena",
+        "exp_type_id": 0
+    },
+    {
+        "id": 263,
+        "name": "Zigzagoon",
+        "exp_type_id": 0
+    },
+    {
+        "id": 264,
+        "name": "Linoone",
+        "exp_type_id": 0
+    },
+    {
+        "id": 265,
+        "name": "Wurmple",
+        "exp_type_id": 0
+    },
+    {
+        "id": 266,
+        "name": "Silcoon",
+        "exp_type_id": 0
+    },
+    {
+        "id": 267,
+        "name": "Beautifly",
+        "exp_type_id": 0
+    },
+    {
+        "id": 268,
+        "name": "Cascoon",
+        "exp_type_id": 0
+    },
+    {
+        "id": 269,
+        "name": "Dustox",
+        "exp_type_id": 0
+    },
+    {
+        "id": 270,
+        "name": "Lotad",
+        "exp_type_id": 3
+    },
+    {
+        "id": 271,
+        "name": "Lombre",
+        "exp_type_id": 3
+    },
+    {
+        "id": 272,
+        "name": "Ludicolo",
+        "exp_type_id": 3
+    },
+    {
+        "id": 273,
+        "name": "Seedot",
+        "exp_type_id": 3
+    },
+    {
+        "id": 274,
+        "name": "Nuzleaf",
+        "exp_type_id": 3
+    },
+    {
+        "id": 275,
+        "name": "Shiftry",
+        "exp_type_id": 3
+    },
+    {
+        "id": 276,
+        "name": "Taillow",
+        "exp_type_id": 3
+    },
+    {
+        "id": 277,
+        "name": "Swellow",
+        "exp_type_id": 3
+    },
+    {
+        "id": 278,
+        "name": "Wingull",
+        "exp_type_id": 0
+    },
+    {
+        "id": 279,
+        "name": "Pelipper",
+        "exp_type_id": 0
+    },
+    {
+        "id": 280,
+        "name": "Ralts",
+        "exp_type_id": 5
+    },
+    {
+        "id": 281,
+        "name": "Kirlia",
+        "exp_type_id": 5
+    },
+    {
+        "id": 282,
+        "name": "Gardevoir",
+        "exp_type_id": 5
+    },
+    {
+        "id": 283,
+        "name": "Surskit",
+        "exp_type_id": 0
+    },
+    {
+        "id": 284,
+        "name": "Masquerain",
+        "exp_type_id": 0
+    },
+    {
+        "id": 285,
+        "name": "Shroomish",
+        "exp_type_id": 2
+    },
+    {
+        "id": 286,
+        "name": "Breloom",
+        "exp_type_id": 2
+    },
+    {
+        "id": 287,
+        "name": "Slakoth",
+        "exp_type_id": 5
+    },
+    {
+        "id": 288,
+        "name": "Vigoroth",
+        "exp_type_id": 5
+    },
+    {
+        "id": 289,
+        "name": "Slaking",
+        "exp_type_id": 5
+    },
+    {
+        "id": 290,
+        "name": "Nincada",
+        "exp_type_id": 1
+    },
+    {
+        "id": 291,
+        "name": "Ninjask",
+        "exp_type_id": 1
+    },
+    {
+        "id": 292,
+        "name": "Shedinja",
+        "exp_type_id": 1
+    },
+    {
+        "id": 293,
+        "name": "Whismur",
+        "exp_type_id": 3
+    },
+    {
+        "id": 294,
+        "name": "Loudred",
+        "exp_type_id": 3
+    },
+    {
+        "id": 295,
+        "name": "Exploud",
+        "exp_type_id": 3
+    },
+    {
+        "id": 296,
+        "name": "Makuhita",
+        "exp_type_id": 2
+    },
+    {
+        "id": 297,
+        "name": "Hariyama",
+        "exp_type_id": 2
+    },
+    {
+        "id": 298,
+        "name": "Azurill",
+        "exp_type_id": 4
+    },
+    {
+        "id": 299,
+        "name": "Nosepass",
+        "exp_type_id": 0
+    },
+    {
+        "id": 300,
+        "name": "Skitty",
+        "exp_type_id": 4
+    },
+    {
+        "id": 301,
+        "name": "Delcatty",
+        "exp_type_id": 4
+    },
+    {
+        "id": 302,
+        "name": "Sableye",
+        "exp_type_id": 3
+    },
+    {
+        "id": 303,
+        "name": "Mawile",
+        "exp_type_id": 4
+    },
+    {
+        "id": 304,
+        "name": "Aron",
+        "exp_type_id": 5
+    },
+    {
+        "id": 305,
+        "name": "Lairon",
+        "exp_type_id": 5
+    },
+    {
+        "id": 306,
+        "name": "Aggron",
+        "exp_type_id": 5
+    },
+    {
+        "id": 307,
+        "name": "Meditite",
+        "exp_type_id": 0
+    },
+    {
+        "id": 308,
+        "name": "Medicham",
+        "exp_type_id": 0
+    },
+    {
+        "id": 309,
+        "name": "Electrike",
+        "exp_type_id": 5
+    },
+    {
+        "id": 310,
+        "name": "Manectric",
+        "exp_type_id": 5
+    },
+    {
+        "id": 311,
+        "name": "Plusle",
+        "exp_type_id": 0
+    },
+    {
+        "id": 312,
+        "name": "Minun",
+        "exp_type_id": 0
+    },
+    {
+        "id": 313,
+        "name": "Volbeat",
+        "exp_type_id": 1
+    },
+    {
+        "id": 314,
+        "name": "Illumise",
+        "exp_type_id": 2
+    },
+    {
+        "id": 315,
+        "name": "Roselia",
+        "exp_type_id": 3
+    },
+    {
+        "id": 316,
+        "name": "Gulpin",
+        "exp_type_id": 2
+    },
+    {
+        "id": 317,
+        "name": "Swalot",
+        "exp_type_id": 2
+    },
+    {
+        "id": 318,
+        "name": "Carvanha",
+        "exp_type_id": 5
+    },
+    {
+        "id": 319,
+        "name": "Sharpedo",
+        "exp_type_id": 5
+    },
+    {
+        "id": 320,
+        "name": "Wailmer",
+        "exp_type_id": 2
+    },
+    {
+        "id": 321,
+        "name": "Wailord",
+        "exp_type_id": 2
+    },
+    {
+        "id": 322,
+        "name": "Numel",
+        "exp_type_id": 0
+    },
+    {
+        "id": 323,
+        "name": "Camerupt",
+        "exp_type_id": 0
+    },
+    {
+        "id": 324,
+        "name": "Torkoal",
+        "exp_type_id": 0
+    },
+    {
+        "id": 325,
+        "name": "Spoink",
+        "exp_type_id": 4
+    },
+    {
+        "id": 326,
+        "name": "Grumpig",
+        "exp_type_id": 4
+    },
+    {
+        "id": 327,
+        "name": "Spinda",
+        "exp_type_id": 4
+    },
+    {
+        "id": 328,
+        "name": "Trapinch",
+        "exp_type_id": 3
+    },
+    {
+        "id": 329,
+        "name": "Vibrava",
+        "exp_type_id": 3
+    },
+    {
+        "id": 330,
+        "name": "Flygon",
+        "exp_type_id": 3
+    },
+    {
+        "id": 331,
+        "name": "Cacnea",
+        "exp_type_id": 3
+    },
+    {
+        "id": 332,
+        "name": "Cacturne",
+        "exp_type_id": 3
+    },
+    {
+        "id": 333,
+        "name": "Swablu",
+        "exp_type_id": 1
+    },
+    {
+        "id": 334,
+        "name": "Altaria",
+        "exp_type_id": 1
+    },
+    {
+        "id": 335,
+        "name": "Zangoose",
+        "exp_type_id": 1
+    },
+    {
+        "id": 336,
+        "name": "Seviper",
+        "exp_type_id": 2
+    },
+    {
+        "id": 337,
+        "name": "Lunatone",
+        "exp_type_id": 4
+    },
+    {
+        "id": 338,
+        "name": "Solrock",
+        "exp_type_id": 4
+    },
+    {
+        "id": 339,
+        "name": "Barboach",
+        "exp_type_id": 0
+    },
+    {
+        "id": 340,
+        "name": "Whiscash",
+        "exp_type_id": 0
+    },
+    {
+        "id": 341,
+        "name": "Corphish",
+        "exp_type_id": 2
+    },
+    {
+        "id": 342,
+        "name": "Crawdaunt",
+        "exp_type_id": 2
+    },
+    {
+        "id": 343,
+        "name": "Baltoy",
+        "exp_type_id": 0
+    },
+    {
+        "id": 344,
+        "name": "Claydol",
+        "exp_type_id": 0
+    },
+    {
+        "id": 345,
+        "name": "Lileep",
+        "exp_type_id": 1
+    },
+    {
+        "id": 346,
+        "name": "Cradily",
+        "exp_type_id": 1
+    },
+    {
+        "id": 347,
+        "name": "Anorith",
+        "exp_type_id": 1
+    },
+    {
+        "id": 348,
+        "name": "Armaldo",
+        "exp_type_id": 1
+    },
+    {
+        "id": 349,
+        "name": "Feebas",
+        "exp_type_id": 1
+    },
+    {
+        "id": 350,
+        "name": "Milotic",
+        "exp_type_id": 1
+    },
+    {
+        "id": 351,
+        "name": "Castform",
+        "exp_type_id": 0
+    },
+    {
+        "id": 352,
+        "name": "Kecleon",
+        "exp_type_id": 3
+    },
+    {
+        "id": 353,
+        "name": "Shuppet",
+        "exp_type_id": 4
+    },
+    {
+        "id": 354,
+        "name": "Banette",
+        "exp_type_id": 4
+    },
+    {
+        "id": 355,
+        "name": "Duskull",
+        "exp_type_id": 4
+    },
+    {
+        "id": 356,
+        "name": "Dusclops",
+        "exp_type_id": 4
+    },
+    {
+        "id": 357,
+        "name": "Tropius",
+        "exp_type_id": 5
+    },
+    {
+        "id": 358,
+        "name": "Chimecho",
+        "exp_type_id": 4
+    },
+    {
+        "id": 359,
+        "name": "Absol",
+        "exp_type_id": 3
+    },
+    {
+        "id": 360,
+        "name": "Wynaut",
+        "exp_type_id": 0
+    },
+    {
+        "id": 361,
+        "name": "Snorunt",
+        "exp_type_id": 0
+    },
+    {
+        "id": 362,
+        "name": "Glalie",
+        "exp_type_id": 0
+    },
+    {
+        "id": 363,
+        "name": "Spheal",
+        "exp_type_id": 3
+    },
+    {
+        "id": 364,
+        "name": "Sealeo",
+        "exp_type_id": 3
+    },
+    {
+        "id": 365,
+        "name": "Walrein",
+        "exp_type_id": 3
+    },
+    {
+        "id": 366,
+        "name": "Clamperl",
+        "exp_type_id": 1
+    },
+    {
+        "id": 367,
+        "name": "Huntail",
+        "exp_type_id": 1
+    },
+    {
+        "id": 368,
+        "name": "Gorebyss",
+        "exp_type_id": 1
+    },
+    {
+        "id": 369,
+        "name": "Relicanth",
+        "exp_type_id": 5
+    },
+    {
+        "id": 370,
+        "name": "Luvdisc",
+        "exp_type_id": 4
+    },
+    {
+        "id": 371,
+        "name": "Bagon",
+        "exp_type_id": 5
+    },
+    {
+        "id": 372,
+        "name": "Shelgon",
+        "exp_type_id": 5
+    },
+    {
+        "id": 373,
+        "name": "Salamence",
+        "exp_type_id": 5
+    },
+    {
+        "id": 374,
+        "name": "Beldum",
+        "exp_type_id": 5
+    },
+    {
+        "id": 375,
+        "name": "Metang",
+        "exp_type_id": 5
+    },
+    {
+        "id": 376,
+        "name": "Metagross",
+        "exp_type_id": 5
+    },
+    {
+        "id": 377,
+        "name": "Regirock",
+        "exp_type_id": 5
+    },
+    {
+        "id": 378,
+        "name": "Regice",
+        "exp_type_id": 5
+    },
+    {
+        "id": 379,
+        "name": "Registeel",
+        "exp_type_id": 5
+    },
+    {
+        "id": 380,
+        "name": "Latias",
+        "exp_type_id": 5
+    },
+    {
+        "id": 381,
+        "name": "Latios",
+        "exp_type_id": 5
+    },
+    {
+        "id": 382,
+        "name": "Kyogre",
+        "exp_type_id": 5
+    },
+    {
+        "id": 383,
+        "name": "Groudon",
+        "exp_type_id": 5
+    },
+    {
+        "id": 384,
+        "name": "Rayquaza",
+        "exp_type_id": 5
+    },
+    {
+        "id": 385,
+        "name": "Jirachi",
+        "exp_type_id": 5
+    },
+    {
+        "id": 386,
+        "name": "Deoxys",
+        "exp_type_id": 5
+    },
+    {
+        "id": 387,
+        "name": "Turtwig",
+        "exp_type_id": 3
+    },
+    {
+        "id": 388,
+        "name": "Grotle",
+        "exp_type_id": 3
+    },
+    {
+        "id": 389,
+        "name": "Torterra",
+        "exp_type_id": 3
+    },
+    {
+        "id": 390,
+        "name": "Chimchar",
+        "exp_type_id": 3
+    },
+    {
+        "id": 391,
+        "name": "Monferno",
+        "exp_type_id": 3
+    },
+    {
+        "id": 392,
+        "name": "Infernape",
+        "exp_type_id": 3
+    },
+    {
+        "id": 393,
+        "name": "Piplup",
+        "exp_type_id": 3
+    },
+    {
+        "id": 394,
+        "name": "Prinplup",
+        "exp_type_id": 3
+    },
+    {
+        "id": 395,
+        "name": "Empoleon",
+        "exp_type_id": 3
+    },
+    {
+        "id": 396,
+        "name": "Starly",
+        "exp_type_id": 3
+    },
+    {
+        "id": 397,
+        "name": "Staravia",
+        "exp_type_id": 3
+    },
+    {
+        "id": 398,
+        "name": "Staraptor",
+        "exp_type_id": 3
+    },
+    {
+        "id": 399,
+        "name": "Bidoof",
+        "exp_type_id": 0
+    },
+    {
+        "id": 400,
+        "name": "Bibarel",
+        "exp_type_id": 0
+    },
+    {
+        "id": 401,
+        "name": "Kricketot",
+        "exp_type_id": 3
+    },
+    {
+        "id": 402,
+        "name": "Kricketune",
+        "exp_type_id": 3
+    },
+    {
+        "id": 403,
+        "name": "Shinx",
+        "exp_type_id": 3
+    },
+    {
+        "id": 404,
+        "name": "Luxio",
+        "exp_type_id": 3
+    },
+    {
+        "id": 405,
+        "name": "Luxray",
+        "exp_type_id": 3
+    },
+    {
+        "id": 406,
+        "name": "Budew",
+        "exp_type_id": 3
+    },
+    {
+        "id": 407,
+        "name": "Roserade",
+        "exp_type_id": 3
+    },
+    {
+        "id": 408,
+        "name": "Cranidos",
+        "exp_type_id": 1
+    },
+    {
+        "id": 409,
+        "name": "Rampardos",
+        "exp_type_id": 1
+    },
+    {
+        "id": 410,
+        "name": "Shieldon",
+        "exp_type_id": 1
+    },
+    {
+        "id": 411,
+        "name": "Bastiodon",
+        "exp_type_id": 1
+    },
+    {
+        "id": 412,
+        "name": "Burmy",
+        "exp_type_id": 0
+    },
+    {
+        "id": 413,
+        "name": "Wormadam",
+        "exp_type_id": 0
+    },
+    {
+        "id": 414,
+        "name": "Mothim",
+        "exp_type_id": 0
+    },
+    {
+        "id": 415,
+        "name": "Combee",
+        "exp_type_id": 3
+    },
+    {
+        "id": 416,
+        "name": "Vespiquen",
+        "exp_type_id": 3
+    },
+    {
+        "id": 417,
+        "name": "Pachirisu",
+        "exp_type_id": 0
+    },
+    {
+        "id": 418,
+        "name": "Buizel",
+        "exp_type_id": 0
+    },
+    {
+        "id": 419,
+        "name": "Floatzel",
+        "exp_type_id": 0
+    },
+    {
+        "id": 420,
+        "name": "Cherubi",
+        "exp_type_id": 0
+    },
+    {
+        "id": 421,
+        "name": "Cherrim",
+        "exp_type_id": 0
+    },
+    {
+        "id": 422,
+        "name": "Shellos",
+        "exp_type_id": 0
+    },
+    {
+        "id": 423,
+        "name": "Gastrodon",
+        "exp_type_id": 0
+    },
+    {
+        "id": 424,
+        "name": "Ambipom",
+        "exp_type_id": 4
+    },
+    {
+        "id": 425,
+        "name": "Drifloon",
+        "exp_type_id": 2
+    },
+    {
+        "id": 426,
+        "name": "Drifblim",
+        "exp_type_id": 2
+    },
+    {
+        "id": 427,
+        "name": "Buneary",
+        "exp_type_id": 0
+    },
+    {
+        "id": 428,
+        "name": "Lopunny",
+        "exp_type_id": 0
+    },
+    {
+        "id": 429,
+        "name": "Mismagius",
+        "exp_type_id": 4
+    },
+    {
+        "id": 430,
+        "name": "Honchkrow",
+        "exp_type_id": 3
+    },
+    {
+        "id": 431,
+        "name": "Glameow",
+        "exp_type_id": 4
+    },
+    {
+        "id": 432,
+        "name": "Purugly",
+        "exp_type_id": 4
+    },
+    {
+        "id": 433,
+        "name": "Chingling",
+        "exp_type_id": 4
+    },
+    {
+        "id": 434,
+        "name": "Stunky",
+        "exp_type_id": 0
+    },
+    {
+        "id": 435,
+        "name": "Skuntank",
+        "exp_type_id": 0
+    },
+    {
+        "id": 436,
+        "name": "Bronzor",
+        "exp_type_id": 0
+    },
+    {
+        "id": 437,
+        "name": "Bronzong",
+        "exp_type_id": 0
+    },
+    {
+        "id": 438,
+        "name": "Bonsly",
+        "exp_type_id": 0
+    },
+    {
+        "id": 439,
+        "name": "Mime Jr.",
+        "exp_type_id": 0
+    },
+    {
+        "id": 440,
+        "name": "Happiny",
+        "exp_type_id": 4
+    },
+    {
+        "id": 441,
+        "name": "Chatot",
+        "exp_type_id": 3
+    },
+    {
+        "id": 442,
+        "name": "Spiritomb",
+        "exp_type_id": 0
+    },
+    {
+        "id": 443,
+        "name": "Gible",
+        "exp_type_id": 5
+    },
+    {
+        "id": 444,
+        "name": "Gabite",
+        "exp_type_id": 5
+    },
+    {
+        "id": 445,
+        "name": "Garchomp",
+        "exp_type_id": 5
+    },
+    {
+        "id": 446,
+        "name": "Munchlax",
+        "exp_type_id": 5
+    },
+    {
+        "id": 447,
+        "name": "Riolu",
+        "exp_type_id": 3
+    },
+    {
+        "id": 448,
+        "name": "Lucario",
+        "exp_type_id": 3
+    },
+    {
+        "id": 449,
+        "name": "Hippopotas",
+        "exp_type_id": 5
+    },
+    {
+        "id": 450,
+        "name": "Hippowdon",
+        "exp_type_id": 5
+    },
+    {
+        "id": 451,
+        "name": "Skorupi",
+        "exp_type_id": 5
+    },
+    {
+        "id": 452,
+        "name": "Drapion",
+        "exp_type_id": 5
+    },
+    {
+        "id": 453,
+        "name": "Croagunk",
+        "exp_type_id": 0
+    },
+    {
+        "id": 454,
+        "name": "Toxicroak",
+        "exp_type_id": 0
+    },
+    {
+        "id": 455,
+        "name": "Carnivine",
+        "exp_type_id": 5
+    },
+    {
+        "id": 456,
+        "name": "Finneon",
+        "exp_type_id": 1
+    },
+    {
+        "id": 457,
+        "name": "Lumineon",
+        "exp_type_id": 1
+    },
+    {
+        "id": 458,
+        "name": "Mantyke",
+        "exp_type_id": 5
+    },
+    {
+        "id": 459,
+        "name": "Snover",
+        "exp_type_id": 5
+    },
+    {
+        "id": 460,
+        "name": "Abomasnow",
+        "exp_type_id": 5
+    },
+    {
+        "id": 461,
+        "name": "Weavile",
+        "exp_type_id": 3
+    },
+    {
+        "id": 462,
+        "name": "Magnezone",
+        "exp_type_id": 0
+    },
+    {
+        "id": 463,
+        "name": "Lickilicky",
+        "exp_type_id": 0
+    },
+    {
+        "id": 464,
+        "name": "Rhyperior",
+        "exp_type_id": 5
+    },
+    {
+        "id": 465,
+        "name": "Tangrowth",
+        "exp_type_id": 0
+    },
+    {
+        "id": 466,
+        "name": "Electivire",
+        "exp_type_id": 0
+    },
+    {
+        "id": 467,
+        "name": "Magmortar",
+        "exp_type_id": 0
+    },
+    {
+        "id": 468,
+        "name": "Togekiss",
+        "exp_type_id": 4
+    },
+    {
+        "id": 469,
+        "name": "Yanmega",
+        "exp_type_id": 0
+    },
+    {
+        "id": 470,
+        "name": "Leafeon",
+        "exp_type_id": 0
+    },
+    {
+        "id": 471,
+        "name": "Glaceon",
+        "exp_type_id": 0
+    },
+    {
+        "id": 472,
+        "name": "Gliscor",
+        "exp_type_id": 3
+    },
+    {
+        "id": 473,
+        "name": "Mamoswine",
+        "exp_type_id": 5
+    },
+    {
+        "id": 474,
+        "name": "Porygon-Z",
+        "exp_type_id": 0
+    },
+    {
+        "id": 475,
+        "name": "Gallade",
+        "exp_type_id": 5
+    },
+    {
+        "id": 476,
+        "name": "Probopass",
+        "exp_type_id": 0
+    },
+    {
+        "id": 477,
+        "name": "Dusknoir",
+        "exp_type_id": 4
+    },
+    {
+        "id": 478,
+        "name": "Froslass",
+        "exp_type_id": 0
+    },
+    {
+        "id": 479,
+        "name": "Rotom",
+        "exp_type_id": 0
+    },
+    {
+        "id": 480,
+        "name": "Uxie",
+        "exp_type_id": 5
+    },
+    {
+        "id": 481,
+        "name": "Mesprit",
+        "exp_type_id": 5
+    },
+    {
+        "id": 482,
+        "name": "Azelf",
+        "exp_type_id": 5
+    },
+    {
+        "id": 483,
+        "name": "Dialga",
+        "exp_type_id": 5
+    },
+    {
+        "id": 484,
+        "name": "Palkia",
+        "exp_type_id": 5
+    },
+    {
+        "id": 485,
+        "name": "Heatran",
+        "exp_type_id": 5
+    },
+    {
+        "id": 486,
+        "name": "Regigigas",
+        "exp_type_id": 5
+    },
+    {
+        "id": 487,
+        "name": "Giratina",
+        "exp_type_id": 5
+    },
+    {
+        "id": 488,
+        "name": "Cresselia",
+        "exp_type_id": 5
+    },
+    {
+        "id": 489,
+        "name": "Phione",
+        "exp_type_id": 5
+    },
+    {
+        "id": 490,
+        "name": "Manaphy",
+        "exp_type_id": 5
+    },
+    {
+        "id": 491,
+        "name": "Darkrai",
+        "exp_type_id": 5
+    },
+    {
+        "id": 492,
+        "name": "Shaymin",
+        "exp_type_id": 3
+    },
+    {
+        "id": 493,
+        "name": "Arceus",
+        "exp_type_id": 5
+    },
+    {
+        "id": 494,
+        "name": "Victini",
+        "exp_type_id": 5
+    },
+    {
+        "id": 495,
+        "name": "Snivy",
+        "exp_type_id": 3
+    },
+    {
+        "id": 496,
+        "name": "Servine",
+        "exp_type_id": 3
+    },
+    {
+        "id": 497,
+        "name": "Serperior",
+        "exp_type_id": 3
+    },
+    {
+        "id": 498,
+        "name": "Tepig",
+        "exp_type_id": 3
+    },
+    {
+        "id": 499,
+        "name": "Pignite",
+        "exp_type_id": 3
+    },
+    {
+        "id": 500,
+        "name": "Emboar",
+        "exp_type_id": 3
+    },
+    {
+        "id": 501,
+        "name": "Oshawott",
+        "exp_type_id": 3
+    },
+    {
+        "id": 502,
+        "name": "Dewott",
+        "exp_type_id": 3
+    },
+    {
+        "id": 503,
+        "name": "Samurott",
+        "exp_type_id": 3
+    },
+    {
+        "id": 504,
+        "name": "Patrat",
+        "exp_type_id": 0
+    },
+    {
+        "id": 505,
+        "name": "Watchog",
+        "exp_type_id": 0
+    },
+    {
+        "id": 506,
+        "name": "Lillipup",
+        "exp_type_id": 3
+    },
+    {
+        "id": 507,
+        "name": "Herdier",
+        "exp_type_id": 3
+    },
+    {
+        "id": 508,
+        "name": "Stoutland",
+        "exp_type_id": 3
+    },
+    {
+        "id": 509,
+        "name": "Purrloin",
+        "exp_type_id": 0
+    },
+    {
+        "id": 510,
+        "name": "Liepard",
+        "exp_type_id": 0
+    },
+    {
+        "id": 511,
+        "name": "Pansage",
+        "exp_type_id": 0
+    },
+    {
+        "id": 512,
+        "name": "Simisage",
+        "exp_type_id": 0
+    },
+    {
+        "id": 513,
+        "name": "Pansear",
+        "exp_type_id": 0
+    },
+    {
+        "id": 514,
+        "name": "Simisear",
+        "exp_type_id": 0
+    },
+    {
+        "id": 515,
+        "name": "Panpour",
+        "exp_type_id": 0
+    },
+    {
+        "id": 516,
+        "name": "Simipour",
+        "exp_type_id": 0
+    },
+    {
+        "id": 517,
+        "name": "Munna",
+        "exp_type_id": 4
+    },
+    {
+        "id": 518,
+        "name": "Musharna",
+        "exp_type_id": 4
+    },
+    {
+        "id": 519,
+        "name": "Pidove",
+        "exp_type_id": 3
+    },
+    {
+        "id": 520,
+        "name": "Tranquill",
+        "exp_type_id": 3
+    },
+    {
+        "id": 521,
+        "name": "Unfezant",
+        "exp_type_id": 3
+    },
+    {
+        "id": 522,
+        "name": "Blitzle",
+        "exp_type_id": 0
+    },
+    {
+        "id": 523,
+        "name": "Zebstrika",
+        "exp_type_id": 0
+    },
+    {
+        "id": 524,
+        "name": "Roggenrola",
+        "exp_type_id": 3
+    },
+    {
+        "id": 525,
+        "name": "Boldore",
+        "exp_type_id": 3
+    },
+    {
+        "id": 526,
+        "name": "Gigalith",
+        "exp_type_id": 3
+    },
+    {
+        "id": 527,
+        "name": "Woobat",
+        "exp_type_id": 0
+    },
+    {
+        "id": 528,
+        "name": "Swoobat",
+        "exp_type_id": 0
+    },
+    {
+        "id": 529,
+        "name": "Drilbur",
+        "exp_type_id": 0
+    },
+    {
+        "id": 530,
+        "name": "Excadrill",
+        "exp_type_id": 0
+    },
+    {
+        "id": 531,
+        "name": "Audino",
+        "exp_type_id": 4
+    },
+    {
+        "id": 532,
+        "name": "Timburr",
+        "exp_type_id": 3
+    },
+    {
+        "id": 533,
+        "name": "Gurdurr",
+        "exp_type_id": 3
+    },
+    {
+        "id": 534,
+        "name": "Conkeldurr",
+        "exp_type_id": 3
+    },
+    {
+        "id": 535,
+        "name": "Tympole",
+        "exp_type_id": 3
+    },
+    {
+        "id": 536,
+        "name": "Palpitoad",
+        "exp_type_id": 3
+    },
+    {
+        "id": 537,
+        "name": "Seismitoad",
+        "exp_type_id": 3
+    },
+    {
+        "id": 538,
+        "name": "Throh",
+        "exp_type_id": 0
+    },
+    {
+        "id": 539,
+        "name": "Sawk",
+        "exp_type_id": 0
+    },
+    {
+        "id": 540,
+        "name": "Sewaddle",
+        "exp_type_id": 3
+    },
+    {
+        "id": 541,
+        "name": "Swadloon",
+        "exp_type_id": 3
+    },
+    {
+        "id": 542,
+        "name": "Leavanny",
+        "exp_type_id": 3
+    },
+    {
+        "id": 543,
+        "name": "Venipede",
+        "exp_type_id": 3
+    },
+    {
+        "id": 544,
+        "name": "Whirlipede",
+        "exp_type_id": 3
+    },
+    {
+        "id": 545,
+        "name": "Scolipede",
+        "exp_type_id": 3
+    },
+    {
+        "id": 546,
+        "name": "Cottonee",
+        "exp_type_id": 0
+    },
+    {
+        "id": 547,
+        "name": "Whimsicott",
+        "exp_type_id": 0
+    },
+    {
+        "id": 548,
+        "name": "Petilil",
+        "exp_type_id": 0
+    },
+    {
+        "id": 549,
+        "name": "Lilligant",
+        "exp_type_id": 0
+    },
+    {
+        "id": 550,
+        "name": "Basculin",
+        "exp_type_id": 0
+    },
+    {
+        "id": 551,
+        "name": "Sandile",
+        "exp_type_id": 3
+    },
+    {
+        "id": 552,
+        "name": "Krokorok",
+        "exp_type_id": 3
+    },
+    {
+        "id": 553,
+        "name": "Krookodile",
+        "exp_type_id": 3
+    },
+    {
+        "id": 554,
+        "name": "Darumaka",
+        "exp_type_id": 3
+    },
+    {
+        "id": 555,
+        "name": "Darmanitan",
+        "exp_type_id": 3
+    },
+    {
+        "id": 556,
+        "name": "Maractus",
+        "exp_type_id": 0
+    },
+    {
+        "id": 557,
+        "name": "Dwebble",
+        "exp_type_id": 0
+    },
+    {
+        "id": 558,
+        "name": "Crustle",
+        "exp_type_id": 0
+    },
+    {
+        "id": 559,
+        "name": "Scraggy",
+        "exp_type_id": 0
+    },
+    {
+        "id": 560,
+        "name": "Scrafty",
+        "exp_type_id": 0
+    },
+    {
+        "id": 561,
+        "name": "Sigilyph",
+        "exp_type_id": 0
+    },
+    {
+        "id": 562,
+        "name": "Yamask",
+        "exp_type_id": 0
+    },
+    {
+        "id": 563,
+        "name": "Cofagrigus",
+        "exp_type_id": 0
+    },
+    {
+        "id": 564,
+        "name": "Tirtouga",
+        "exp_type_id": 0
+    },
+    {
+        "id": 565,
+        "name": "Carracosta",
+        "exp_type_id": 0
+    },
+    {
+        "id": 566,
+        "name": "Archen",
+        "exp_type_id": 0
+    },
+    {
+        "id": 567,
+        "name": "Archeops",
+        "exp_type_id": 0
+    },
+    {
+        "id": 568,
+        "name": "Trubbish",
+        "exp_type_id": 0
+    },
+    {
+        "id": 569,
+        "name": "Garbodor",
+        "exp_type_id": 0
+    },
+    {
+        "id": 570,
+        "name": "Zorua",
+        "exp_type_id": 3
+    },
+    {
+        "id": 571,
+        "name": "Zoroark",
+        "exp_type_id": 3
+    },
+    {
+        "id": 572,
+        "name": "Minccino",
+        "exp_type_id": 4
+    },
+    {
+        "id": 573,
+        "name": "Cinccino",
+        "exp_type_id": 4
+    },
+    {
+        "id": 574,
+        "name": "Gothita",
+        "exp_type_id": 3
+    },
+    {
+        "id": 575,
+        "name": "Gothorita",
+        "exp_type_id": 3
+    },
+    {
+        "id": 576,
+        "name": "Gothitelle",
+        "exp_type_id": 3
+    },
+    {
+        "id": 577,
+        "name": "Solosis",
+        "exp_type_id": 3
+    },
+    {
+        "id": 578,
+        "name": "Duosion",
+        "exp_type_id": 3
+    },
+    {
+        "id": 579,
+        "name": "Reuniclus",
+        "exp_type_id": 3
+    },
+    {
+        "id": 580,
+        "name": "Ducklett",
+        "exp_type_id": 0
+    },
+    {
+        "id": 581,
+        "name": "Swanna",
+        "exp_type_id": 0
+    },
+    {
+        "id": 582,
+        "name": "Vanillite",
+        "exp_type_id": 5
+    },
+    {
+        "id": 583,
+        "name": "Vanillish",
+        "exp_type_id": 5
+    },
+    {
+        "id": 584,
+        "name": "Vanilluxe",
+        "exp_type_id": 5
+    },
+    {
+        "id": 585,
+        "name": "Deerling",
+        "exp_type_id": 0
+    },
+    {
+        "id": 586,
+        "name": "Sawsbuck",
+        "exp_type_id": 0
+    },
+    {
+        "id": 587,
+        "name": "Emolga",
+        "exp_type_id": 0
+    },
+    {
+        "id": 588,
+        "name": "Karrablast",
+        "exp_type_id": 0
+    },
+    {
+        "id": 589,
+        "name": "Escavalier",
+        "exp_type_id": 0
+    },
+    {
+        "id": 590,
+        "name": "Foongus",
+        "exp_type_id": 0
+    },
+    {
+        "id": 591,
+        "name": "Amoonguss",
+        "exp_type_id": 0
+    },
+    {
+        "id": 592,
+        "name": "Frillish",
+        "exp_type_id": 0
+    },
+    {
+        "id": 593,
+        "name": "Jellicent",
+        "exp_type_id": 0
+    },
+    {
+        "id": 594,
+        "name": "Alomomola",
+        "exp_type_id": 4
+    },
+    {
+        "id": 595,
+        "name": "Joltik",
+        "exp_type_id": 0
+    },
+    {
+        "id": 596,
+        "name": "Galvantula",
+        "exp_type_id": 0
+    },
+    {
+        "id": 597,
+        "name": "Ferroseed",
+        "exp_type_id": 0
+    },
+    {
+        "id": 598,
+        "name": "Ferrothorn",
+        "exp_type_id": 0
+    },
+    {
+        "id": 599,
+        "name": "Klink",
+        "exp_type_id": 3
+    },
+    {
+        "id": 600,
+        "name": "Klang",
+        "exp_type_id": 3
+    },
+    {
+        "id": 601,
+        "name": "Klinklang",
+        "exp_type_id": 3
+    },
+    {
+        "id": 602,
+        "name": "Tynamo",
+        "exp_type_id": 5
+    },
+    {
+        "id": 603,
+        "name": "Eelektrik",
+        "exp_type_id": 5
+    },
+    {
+        "id": 604,
+        "name": "Eelektross",
+        "exp_type_id": 5
+    },
+    {
+        "id": 605,
+        "name": "Elgyem",
+        "exp_type_id": 0
+    },
+    {
+        "id": 606,
+        "name": "Beheeyem",
+        "exp_type_id": 0
+    },
+    {
+        "id": 607,
+        "name": "Litwick",
+        "exp_type_id": 3
+    },
+    {
+        "id": 608,
+        "name": "Lampent",
+        "exp_type_id": 3
+    },
+    {
+        "id": 609,
+        "name": "Chandelure",
+        "exp_type_id": 3
+    },
+    {
+        "id": 610,
+        "name": "Axew",
+        "exp_type_id": 5
+    },
+    {
+        "id": 611,
+        "name": "Fraxure",
+        "exp_type_id": 5
+    },
+    {
+        "id": 612,
+        "name": "Haxorus",
+        "exp_type_id": 5
+    },
+    {
+        "id": 613,
+        "name": "Cubchoo",
+        "exp_type_id": 0
+    },
+    {
+        "id": 614,
+        "name": "Beartic",
+        "exp_type_id": 0
+    },
+    {
+        "id": 615,
+        "name": "Cryogonal",
+        "exp_type_id": 0
+    },
+    {
+        "id": 616,
+        "name": "Shelmet",
+        "exp_type_id": 0
+    },
+    {
+        "id": 617,
+        "name": "Accelgor",
+        "exp_type_id": 0
+    },
+    {
+        "id": 618,
+        "name": "Stunfisk",
+        "exp_type_id": 0
+    },
+    {
+        "id": 619,
+        "name": "Mienfoo",
+        "exp_type_id": 3
+    },
+    {
+        "id": 620,
+        "name": "Mienshao",
+        "exp_type_id": 3
+    },
+    {
+        "id": 621,
+        "name": "Druddigon",
+        "exp_type_id": 0
+    },
+    {
+        "id": 622,
+        "name": "Golett",
+        "exp_type_id": 0
+    },
+    {
+        "id": 623,
+        "name": "Golurk",
+        "exp_type_id": 0
+    },
+    {
+        "id": 624,
+        "name": "Pawniard",
+        "exp_type_id": 0
+    },
+    {
+        "id": 625,
+        "name": "Bisharp",
+        "exp_type_id": 0
+    },
+    {
+        "id": 626,
+        "name": "Bouffalant",
+        "exp_type_id": 0
+    },
+    {
+        "id": 627,
+        "name": "Rufflet",
+        "exp_type_id": 5
+    },
+    {
+        "id": 628,
+        "name": "Braviary",
+        "exp_type_id": 5
+    },
+    {
+        "id": 629,
+        "name": "Vullaby",
+        "exp_type_id": 5
+    },
+    {
+        "id": 630,
+        "name": "Mandibuzz",
+        "exp_type_id": 5
+    },
+    {
+        "id": 631,
+        "name": "Heatmor",
+        "exp_type_id": 0
+    },
+    {
+        "id": 632,
+        "name": "Durant",
+        "exp_type_id": 0
+    },
+    {
+        "id": 633,
+        "name": "Deino",
+        "exp_type_id": 5
+    },
+    {
+        "id": 634,
+        "name": "Zweilous",
+        "exp_type_id": 5
+    },
+    {
+        "id": 635,
+        "name": "Hydreigon",
+        "exp_type_id": 5
+    },
+    {
+        "id": 636,
+        "name": "Larvesta",
+        "exp_type_id": 5
+    },
+    {
+        "id": 637,
+        "name": "Volcarona",
+        "exp_type_id": 5
+    },
+    {
+        "id": 638,
+        "name": "Cobalion",
+        "exp_type_id": 5
+    },
+    {
+        "id": 639,
+        "name": "Terrakion",
+        "exp_type_id": 5
+    },
+    {
+        "id": 640,
+        "name": "Virizion",
+        "exp_type_id": 5
+    },
+    {
+        "id": 641,
+        "name": "Tornadus",
+        "exp_type_id": 5
+    },
+    {
+        "id": 642,
+        "name": "Thundurus",
+        "exp_type_id": 5
+    },
+    {
+        "id": 643,
+        "name": "Reshiram",
+        "exp_type_id": 5
+    },
+    {
+        "id": 644,
+        "name": "Zekrom",
+        "exp_type_id": 5
+    },
+    {
+        "id": 645,
+        "name": "Landorus",
+        "exp_type_id": 5
+    },
+    {
+        "id": 646,
+        "name": "Kyurem",
+        "exp_type_id": 5
+    },
+    {
+        "id": 647,
+        "name": "Keldeo",
+        "exp_type_id": 5
+    },
+    {
+        "id": 648,
+        "name": "Meloetta",
+        "exp_type_id": 5
+    },
+    {
+        "id": 649,
+        "name": "Genesect",
+        "exp_type_id": 5
+    },
+    {
+        "id": 650,
+        "name": "Deoxys",
+        "exp_type_id": 5
+    },
+    {
+        "id": 651,
+        "name": "Deoxys",
+        "exp_type_id": 5
+    },
+    {
+        "id": 652,
+        "name": "Deoxys",
+        "exp_type_id": 5
+    },
+    {
+        "id": 653,
+        "name": "Wormadam",
+        "exp_type_id": 0
+    },
+    {
+        "id": 654,
+        "name": "Wormadam",
+        "exp_type_id": 0
+    },
+    {
+        "id": 655,
+        "name": "Shaymin",
+        "exp_type_id": 3
+    },
+    {
+        "id": 656,
+        "name": "Giratina",
+        "exp_type_id": 5
+    },
+    {
+        "id": 657,
+        "name": "Rotom",
+        "exp_type_id": 0
+    },
+    {
+        "id": 658,
+        "name": "Rotom",
+        "exp_type_id": 0
+    },
+    {
+        "id": 659,
+        "name": "Rotom",
+        "exp_type_id": 0
+    },
+    {
+        "id": 660,
+        "name": "Rotom",
+        "exp_type_id": 0
+    },
+    {
+        "id": 661,
+        "name": "Rotom",
+        "exp_type_id": 0
+    },
+    {
+        "id": 662,
+        "name": "Castform",
+        "exp_type_id": 0
+    },
+    {
+        "id": 663,
+        "name": "Castform",
+        "exp_type_id": 0
+    },
+    {
+        "id": 664,
+        "name": "Castform",
+        "exp_type_id": 0
+    },
+    {
+        "id": 665,
+        "name": "Basculin",
+        "exp_type_id": 0
+    },
+    {
+        "id": 666,
+        "name": "Darmanitan",
+        "exp_type_id": 3
+    },
+    {
+        "id": 667,
+        "name": "Meloetta",
+        "exp_type_id": 5
+    },
+    {
+        "id": 1000,
+        "name": "Pumpking",
+        "exp_type_id": 1
+    },
+    {
+        "id": 1001,
+        "name": "Pumpking",
+        "exp_type_id": 1
+    },
+    {
+        "id": 1002,
+        "name": "Pumpking",
+        "exp_type_id": 1
+    },
+    {
+        "id": 1003,
+        "name": "Fighting Elfbot",
+        "exp_type_id": 1
+    },
+    {
+        "id": 1004,
+        "name": "Flying Elfbot",
+        "exp_type_id": 1
+    },
+    {
+        "id": 1005,
+        "name": "Poison Elfbot",
+        "exp_type_id": 1
+    },
+    {
+        "id": 1006,
+        "name": "Ground Elfbot",
+        "exp_type_id": 1
+    },
+    {
+        "id": 1007,
+        "name": "Rock Elfbot",
+        "exp_type_id": 1
+    },
+    {
+        "id": 1008,
+        "name": "Bug Elfbot",
+        "exp_type_id": 1
+    },
+    {
+        "id": 1009,
+        "name": "Ghost Elfbot",
+        "exp_type_id": 1
+    },
+    {
+        "id": 1010,
+        "name": "Steel Elfbot",
+        "exp_type_id": 1
+    },
+    {
+        "id": 1011,
+        "name": "Fire Elfbot",
+        "exp_type_id": 1
+    },
+    {
+        "id": 1012,
+        "name": "Water Elfbot",
+        "exp_type_id": 1
+    },
+    {
+        "id": 1013,
+        "name": "Grass Elfbot",
+        "exp_type_id": 1
+    },
+    {
+        "id": 1014,
+        "name": "Electric Elfbot",
+        "exp_type_id": 1
+    },
+    {
+        "id": 1015,
+        "name": "Psychic Elfbot",
+        "exp_type_id": 1
+    },
+    {
+        "id": 1016,
+        "name": "Ice Elfbot",
+        "exp_type_id": 1
+    },
+    {
+        "id": 1017,
+        "name": "Dragon Elfbot",
+        "exp_type_id": 1
+    },
+    {
+        "id": 1018,
+        "name": "Dark Elfbot",
+        "exp_type_id": 1
+    },
+    {
+        "id": 1019,
+        "name": "Pumprince",
+        "exp_type_id": 1
+    },
+    {
+        "id": 1020,
+        "name": "Pumprincess",
+        "exp_type_id": 1
+    },
+    {
+        "id": 1021,
+        "name": "Li'l Pump",
+        "exp_type_id": 1
+    },
+    {
+        "id": 1022,
+        "name": "???",
+        "exp_type_id": 1
+    },
+    {
+        "id": 1023,
+        "name": "Giratina",
+        "exp_type_id": 1
+    },
+    {
+        "id": 1024,
+        "name": "Nian",
+        "exp_type_id": 1
+    },
+    {
+        "id": 1025,
+        "name": "Jumpeon",
+        "exp_type_id": 1
+    },
+    {
+        "id": 1026,
+        "name": "Circuitree",
+        "exp_type_id": 1
+    },
+    {
+        "id": 1027,
+        "name": "Robosanta",
+        "exp_type_id": 1
+    },
+    {
+        "id": 1028,
+        "name": "Mountain Muncher",
+        "exp_type_id": 1
+    },
+    {
+        "id": 1029,
+        "name": "Fighting Elfbot",
+        "exp_type_id": 1
+    },
+    {
+        "id": 1030,
+        "name": "Flying Elfbot",
+        "exp_type_id": 1
+    },
+    {
+        "id": 1031,
+        "name": "Poison Elfbot",
+        "exp_type_id": 1
+    },
+    {
+        "id": 1032,
+        "name": "Ground Elfbot",
+        "exp_type_id": 1
+    },
+    {
+        "id": 1033,
+        "name": "Rock Elfbot",
+        "exp_type_id": 1
+    },
+    {
+        "id": 1034,
+        "name": "Bug Elfbot",
+        "exp_type_id": 1
+    },
+    {
+        "id": 1035,
+        "name": "Ghost Elfbot",
+        "exp_type_id": 1
+    },
+    {
+        "id": 1036,
+        "name": "Steel Elfbot",
+        "exp_type_id": 1
+    },
+    {
+        "id": 1037,
+        "name": "Fire Elfbot",
+        "exp_type_id": 1
+    },
+    {
+        "id": 1038,
+        "name": "Water Elfbot",
+        "exp_type_id": 1
+    },
+    {
+        "id": 1039,
+        "name": "Grass Elfbot",
+        "exp_type_id": 1
+    },
+    {
+        "id": 1040,
+        "name": "Electric Elfbot",
+        "exp_type_id": 1
+    },
+    {
+        "id": 1041,
+        "name": "Psychic Elfbot",
+        "exp_type_id": 1
+    },
+    {
+        "id": 1042,
+        "name": "Ice Elfbot",
+        "exp_type_id": 1
+    },
+    {
+        "id": 1043,
+        "name": "Dragon Elfbot",
+        "exp_type_id": 1
+    },
+    {
+        "id": 1044,
+        "name": "Dark Elfbot",
+        "exp_type_id": 1
+    },
+    {
+        "id": 1045,
+        "name": "Normal Elfbot",
+        "exp_type_id": 1
+    },
+    {
+        "id": 1046,
+        "name": "Normal Elfbot",
+        "exp_type_id": 1
+    },
+    {
+        "id": 1047,
+        "name": "Pumpaladin",
+        "exp_type_id": 1
+    },
+    {
+        "id": 1048,
+        "name": "Pumpmage",
+        "exp_type_id": 1
+    },
+    {
+        "id": 1049,
+        "name": "Pumpreaper",
+        "exp_type_id": 1
+    },
+    {
+        "id": 1050,
+        "name": "Botcracker",
+        "exp_type_id": 1
+    },
+    {
+        "id": 1051,
+        "name": "Pumpthief",
+        "exp_type_id": 1
+    },
+    {
+        "id": 1052,
+        "name": "DEBUG_ST1000",
+        "exp_type_id": 1
+    }
+]

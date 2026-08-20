@@ -24,5 +24,6 @@ export const games = [
     detail: "Level / EV Training quotes and organizer.",
     code: "PM",
     color: "#f25c54",
+    link: "pokemmo",
   },
 ];

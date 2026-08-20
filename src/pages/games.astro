@@ -26,7 +26,12 @@ import { games } from "../data/content";
               </span>
               <h2 class="mt-8 text-xl font-bold">{game.name}</h2>
               <p class="subtle mt-2 text-sm">{game.detail}</p>
-              <p class="mt-5 text-sm font-semibold">View game hub →</p>
+              <a
+                class="mt-5 text-sm font-semibold"
+                href={`/games/${game.link}`}
+              >
+                View game hub →
+              </a>
             </>
           </article>
         ))
